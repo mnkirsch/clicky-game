@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Kyrie Irving",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6442.png&w=350&h=254"
+  },
+  {
+    "id": 2,
+    "name": "Jayson Tatum",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065648.png&w=350&h=254"
+  },
+  {
+    "id": 3,
+    "name": "Al Horford",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3213.png&w=350&h=254"
+  },
+  {
+    "id": 4,
+    "name": "Jaylen Brown",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3917376.png&w=350&h=254"
+  },
+  {
+    "id": 5,
+    "name": "Aron Baynes",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2968439.png&w=350&h=254"
+  },
+  {
+    "id": 6,
+    "name": "Gordon Hayward",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4249.png&w=350&h=254"
+  },
+  {
+    "id": 7,
+    "name": "Marcus Smart",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2990992.png&w=350&h=254"
+  },
+  {
+    "id": 8,
+    "name": "Marcus Morris",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6462.png&w=350&h=254"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Theis",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2451037.png&w=350&h=254"
+  },
+  {
+    "id": 10,
+    "name": "Robert Williams",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066211.png&w=350&h=254"
+  },
+  {
+    "id": 11,
+    "name": "Brad Wanamaker",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6507.png&w=350&h=254"
+  },
+  {
+    "id": 12,
+    "name": "Guerschon Yabusele",
+    "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4017844.png&w=350&h=254"
+  }
+]
